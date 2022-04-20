@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <div class="main-content"><h1>hello world</h1></div>
 
+<div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
